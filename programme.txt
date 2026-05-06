@@ -3,6 +3,6 @@
 * Ajouter et modifier des fichiers 
 * ajouter d'autres personnes au projet ?
 * Voir l'historique
-* Ne pas avoir peur des merge et des rebase
+* Ne pas avoir peur des merge et des rebase qui ne marchent pas...
 * ajout d'utilisateurs ?
 * supprimer des commits ?
