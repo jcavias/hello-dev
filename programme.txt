@@ -1,6 +1,6 @@
 # Ce qu'il faut faire
 
-* Ajouter des fichiers 
-* Modifier des fichiers
+* Ajouter et modifier des fichiers 
+* ajouter d'autres personnes au projet ?
 * Voir l'historique
-* Ne pas voir peut des merge 
+* Ne pas voir peur des merge 
